@@ -13,3 +13,20 @@ results
 
 node_modules
 npm-debug.log
+.DS_Store
+
+.idea/.name
+
+.idea/Node-Play.iml
+
+.idea/encodings.xml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/scopes/scope_settings.xml
+
+.idea/vcs.xml
+
+.idea/workspace.xml
